@@ -1,0 +1,10 @@
+# Environment / secrets
+.env
+.env.*
+*.env
+*.local
+*.key
+# OS/editor clutter
+.DS_Store
+.vscode/
+.idea/
